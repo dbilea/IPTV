@@ -16,3 +16,98 @@ http://line.uhd-ott.io:80/A5FCFD/FC884F/106911
 http://line.uhd-ott.io:80/A5FCFD/FC884F/106912
 #EXTINF:-1 tvg-ID="b1.ro" tvg-name="[RO] [SD] B1 TV" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ROMANIA/GENERAL/B1TV.png" group-title="[RO] GENERAL / STIRI",[RO] [SD] B1 TV
 http://line.uhd-ott.io:80/A5FCFD/FC884F/106826
+#EXTINF:-1,-------- [RO] [HD] --------
+http://45.153.33.52:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[RO] [HD] TVR HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106924
+#EXTINF:-1,[RO] [SD] TVR 1
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106921
+#EXTINF:-1,[RO] [SD] TVR 2
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106922
+#EXTINF:-1,[RO] [SD] TVR 3
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106923
+#EXTINF:-1,[RO] [HD] ANTENA 1 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106818
+#EXTINF:-1,[RO] [HD] ANTENA 1 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106819
+#EXTINF:-1,[RO] [HD] ANTENA STARS HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/114863
+#EXTINF:-1,[RO] [SD] ANTENA STARS
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106821
+#EXTINF:-1,[RO] [HD] PRO TV HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106910
+#EXTINF:-1,[RO] [SD] PRO TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106907
+#EXTINF:-1,[RO] [SD] PRO TV INTERNATIONAL
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106908
+#EXTINF:-1,[RO] [HD] PRO 2 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/114872
+#EXTINF:-1,[RO] [SD] PRO 2
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106904
+#EXTINF:-1,[RO] [SD] PRO X
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106909
+#EXTINF:-1,[RO] [SD] PRO GOLD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106906
+#EXTINF:-1,[RO] [SD] PRO CINEMA
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106905
+#EXTINF:-1,[RO] [SD] KANAL D
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106883
+#EXTINF:-1,[RO] [HD] HAPPY CHANNEL HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106872
+#EXTINF:-1,[RO] [HD] DUNA HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106855
+#EXTINF:-1,[RO] [SD] TV PAPRIKA
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106920
+#EXTINF:-1,[RO] [HD] DIGI 24 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106932
+#EXTINF:-1,[RO] [HD] ANTENA 3 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/114864
+#EXTINF:-1,[RO] [SD] ANTENA 3
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106820
+#EXTINF:-1,[RO] [SD] REALITATEA TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106911
+#EXTINF:-1,[RO] [SD] ROMANIA TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106912
+#EXTINF:-1,[RO] [SD] B1 TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106826
+#EXTINF:-1,[RO] [SD] NATIONAL TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106900
+#EXTINF:-1,[RO] [SD] NATIONAL 24
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106897
+#EXTINF:-1,[RO] [SD] PRIMA TV
+#EXTINF:-1,-------- [BG] МУЗИКА [HD] --------
+http://45.153.33.52:25461/4K_OTT_Intro.mp4
+#EXTINF:-1,[BG] [SD] MTV LIVE
+http://line.uhd-ott.io:80/A5FCFD/FC884F/94941
+#EXTINF:-1,[BG] [SD] MTV HITS
+http://line.uhd-ott.io:80/A5FCFD/FC884F/27749
+#EXTINF:-1,[BG] [SD] MTV DANCE
+http://line.uhd-ott.io:80/A5FCFD/FC884F/312460
+#EXTINF:-1,[BG] [SD] MTV ROCK
+http://line.uhd-ott.io:80/A5FCFD/FC884F/312459
+#EXTINF:-1,[BG] [HD] PLANETA TV HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/27733
+#EXTINF:-1,[BG] [HD] PLANETA TV HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/94940
+#EXTINF:-1,[BG] [SD] PLANETA FOLK
+http://line.uhd-ott.io:80/A5FCFD/FC884F/27726
+#EXTINF:-1,[BG] [SD] BALKANIKA
+http://line.uhd-ott.io:80/A5FCFD/FC884F/27760
+#EXTINF:-1,[BG] [SD] FEN FOLK TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/27797
+#EXTINF:-1,[BG] [SD] FOLKLOR TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/27745
+#EXTINF:-1,[BG] [SD] TIANKOV FOLK
+http://line.uhd-ott.io:80/A5FCFD/FC884F/312454
+#EXTINF:-1,[BG] [SD] TIANKOV ORIENT FOLK
+http://line.uhd-ott.io:80/A5FCFD/FC884F/312455
+#EXTINF:-1,[BG] [SD] ROMA TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/312456
+#EXTINF:-1,[BG] [SD] THE VOICE
+http://line.uhd-ott.io:80/A5FCFD/FC884F/312457
+#EXTINF:-1,[BG] [SD] MAGIC TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/27788
+#EXTINF:-1,[BG] [SD] CITY TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/27772
+#EXTINF:-1,[BG] [SD] DSTV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/126309
