@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="protv.ro" tvg-name="[RO] [HD] PRO TV HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ROMANIA/GENERAL/PROTV.png" group-title="[RO] GENERAL / STIRI",[RO] [HD] PRO TV HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106910
+#EXTINF:-1 tvg-ID="protv.ro" tvg-name="[RO] [SD] PRO TV" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ROMANIA/GENERAL/PROTV.png" group-title="[RO] GENERAL / STIRI",[RO] [SD] PRO TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106907
+#EXTINF:-1 tvg-ID="digi24.ro" tvg-name="[RO] [HD] DIGI 24 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ROMANIA/GENERAL/DIGI24.png" group-title="[RO] GENERAL / STIRI",[RO] [HD] DIGI 24 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106932
+#EXTINF:-1 tvg-ID="antena3.ro" tvg-name="[RO] [HD] ANTENA 3 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ROMANIA/GENERAL/ANTENA3.png" group-title="[RO] GENERAL / STIRI",[RO] [HD] ANTENA 3 HD
+http://line.uhd-ott.io:80/A5FCFD/FC884F/114864
+#EXTINF:-1 tvg-ID="antena3.ro" tvg-name="[RO] [SD] ANTENA 3" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ROMANIA/GENERAL/ANTENA3.png" group-title="[RO] GENERAL / STIRI",[RO] [SD] ANTENA 3
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106820
+#EXTINF:-1 tvg-ID="" tvg-name="[RO] [SD] REALITATEA TV" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ROMANIA/GENERAL/REALITATEATV.png" group-title="[RO] GENERAL / STIRI",[RO] [SD] REALITATEA TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106911
+#EXTINF:-1 tvg-ID="romaniatv.ro" tvg-name="[RO] [SD] ROMANIA TV" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ROMANIA/GENERAL/ROMANIATV.png" group-title="[RO] GENERAL / STIRI",[RO] [SD] ROMANIA TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106912
+#EXTINF:-1 tvg-ID="b1.ro" tvg-name="[RO] [SD] B1 TV" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ROMANIA/GENERAL/B1TV.png" group-title="[RO] GENERAL / STIRI",[RO] [SD] B1 TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106826
