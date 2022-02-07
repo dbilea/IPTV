@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-ID="antena3.ro" tvg-name="[RO] [HD] ANTENA 3 HD" tvg-logo="https://rb.gy/iycmno/4KOTTLOGO/ROMANIA/GENERAL/ANTENA3.png" group-title="[RO] GENERAL / STIRI",[RO] [HD] ANTENA 3 HD
+#EXTINF:-1,[RO] [SD] ANTENA 3
 https://rb.gy/iycmno
 
 #EXTINF:-1,-------- [RO] [HD] --------
