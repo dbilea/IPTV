@@ -3,26 +3,8 @@
 
 #EXTINF:-1,[RO] [HD] ANTENA 1 HD
 http://line.uhd-ott.io:80/A5FCFD/FC884F/106818
-#EXTINF:-1,[RO] [HD] ANTENA 1 HD
-http://line.uhd-ott.io:80/A5FCFD/FC884F/106819
-
-#EXTINF:-1,[RO] [HD] PRO TV HD
-http://line.uhd-ott.io:80/A5FCFD/FC884F/106910
 #EXTINF:-1,[RO] [SD] PRO TV
 http://line.uhd-ott.io:80/A5FCFD/FC884F/106907
-
-#EXTINF:-1,[RO] [SD] PRO TV INTERNATIONAL
-http://line.uhd-ott.io:80/A5FCFD/FC884F/106908
-#EXTINF:-1,[RO] [HD] PRO 2 HD
-http://line.uhd-ott.io:80/A5FCFD/FC884F/114872
-#EXTINF:-1,[RO] [SD] PRO 2
-http://line.uhd-ott.io:80/A5FCFD/FC884F/106904
-#EXTINF:-1,[RO] [SD] PRO X
-http://line.uhd-ott.io:80/A5FCFD/FC884F/106909
-
-#EXTINF:-1,[RO] [SD] PRO CINEMA
-http://line.uhd-ott.io:80/A5FCFD/FC884F/106905
-
 #EXTINF:-1,[RO] [HD] DIGI 24 HD
 http://line.uhd-ott.io:80/A5FCFD/FC884F/106932
 #EXTINF:-1,[RO] [HD] ANTENA 3 HD
@@ -35,5 +17,7 @@ http://line.uhd-ott.io:80/A5FCFD/FC884F/106911
 http://line.uhd-ott.io:80/A5FCFD/FC884F/106912
 #EXTINF:-1,[RO] [SD] B1 TV
 http://line.uhd-ott.io:80/A5FCFD/FC884F/106826
-
-
+#EXTINF:-1 tvg-ID="primatv.ro" tvg-name="[RO] [SD] PRIMA TV" tvg-logo="http://logourl.net/4KOTTLOGO/ROMANIA/GENERAL/PRIMATV.png" group-title="ROMANIA",[RO] [SD] PRIMA TV
+http://line.uhd-ott.io:80/A5FCFD/FC884F/106903#EXTINF:-1 tvg-ID="" tvg-name="[IT] [8K] RAI NEWS 24 HD" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/RAINEWS24HD.png" group-title="[IT] GENERALE",[IT] [8K] RAI NEWS 24 HD
+#EXTINF:-1 tvg-ID="tgcom.it" tvg-name="[IT] [SD] TGCOM24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/TGCOM24.png" group-title="[IT] GENERALE",[IT] [SD] TGCOM24
+#EXTINF:-1 tvg-ID="skytg24.it" tvg-name="[IT] [HD] SKY TG 24" tvg-logo="http://logourl.net/4KOTTLOGO/ITALY/SKYTG24.png" group-title="[IT] GENERALE",[IT] [HD] SKY TG 24
